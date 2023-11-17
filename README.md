@@ -1,6 +1,6 @@
 # Emotion_detection_with_CNN
+![Screenshot 2023-11-08 105707](https://github.com/pranav-0/Emotion-Detector/assets/77057438/cee6c5bc-2cba-415c-88ff-db6abc3b5225)
 
-![emotion_detection](https://github.com/datamagic2020/Emotion_detection_with_CNN/blob/main/emoition_detection.png)
 
 ### Packages need to be installed
 - pip install numpy
